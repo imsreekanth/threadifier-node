@@ -68,6 +68,4 @@ Please check the [examples](./examples) directory.
 
 You're free to submit PRs. There are no build/tests yet. But it is in roadmap.
 
-## Contact
 
-Feel free to contact me on [twitter.com/shahidcodes](https://twitter.com/shahidcodes)
